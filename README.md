@@ -1,4 +1,6 @@
 # Building an management system for a car rental company
+//Code Review Jiayi Li -> Zhang Zhang:
+//It would be better if you could add name of the project to the repository title, like"Retal-Car-Manahement".
 ## Purpose Statement
 We aim to develop a web-based management system for a car rental company. It has two main functionalities: 
 1. Facilitate the rental company to manage their car fleet. For example: the rental company can add a new car to their fleet, update a car's rental price and other information, or delete an existing car from the fleet. 
